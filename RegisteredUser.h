@@ -19,4 +19,5 @@ class RegisteredUser : public UnregisteredUser
 		void requestNutritionist();
 		void scheduleTime();
 		~RegisteredUser();
+		
 };
